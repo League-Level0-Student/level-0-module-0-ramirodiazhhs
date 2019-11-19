@@ -5,6 +5,7 @@ import javax.swing.JOptionPane;
 public class Awsome {
 public static void main(String[] args) {
      String Input =  JOptionPane.showInputDialog("What Do You Like");
-     JOptionPane.showMessageDialog(null, Input +  " Are Awsome");
-}
+     JOptionPane.showMessageDialog(null, Input +  " is Awsome");   
+     
+} 
 }
